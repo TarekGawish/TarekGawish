@@ -1,5 +1,5 @@
 
- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+ <img sec ="https://i.gifer.com/XOsX.gif" width="30">
 <h3 align="center">
   Welcome to Tarek Gawish's profile!
  
