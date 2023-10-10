@@ -22,7 +22,7 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
+
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) 
 ![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass&logoColor=ffffff&labelColor=%23CC6699)
@@ -38,10 +38,13 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 ![socket.io](https://img.shields.io/badge/-Socket.Io-000000?style=flat&logo=socket.io&logoColor=000000&labelColor=ffffff)
 ![Jest](https://img.shields.io/badge/-Jest-000000?style=flat&logo=Jest&logoColor=C21325&labelColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=ffffff&labelColor=336791)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=mysql&labelColor=ffffff)
+![Python](https://img.shields.io/badge/-python-000000?style=flat&logo=python&labelColor=ffffff)
 
-
-
+![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=dart)
+![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter&labelColor=007ACC)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
+![androidstudio](https://img.shields.io/badge/-android%20studio-000000?style=flat&logo=androidstudio&labelColor=ffffff)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
 
 🧐 **Knowledge of:**<br>
 
