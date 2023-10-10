@@ -37,7 +37,7 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
 ![androidstudio](https://img.shields.io/badge/-android%20studio-000000?style=flat&logo=androidstudio)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
-![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=kotlin-code&labelColor=007ACC)
+
 
 🧐 **Knowledge of:**<br>
 
