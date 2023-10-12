@@ -30,7 +30,6 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 **Languages and Tools:**<br>
 
 ![Python](https://img.shields.io/badge/-python-000000?style=flat&logo=python&labelColor=ffffff)
-
 ![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=dart)
 ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter&labelColor=007ACC)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
@@ -43,8 +42,7 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 
 `Responsive web design`, `DOM`, `Styled Components`, `React Router`, `Enzyme`, `AXIOS`, `3rd Party API`, `Object-Oriented Programming`, `data structures and algorithms`.
 
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="100" hight="30">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/frameworks/flutter%402x.png" width="120" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="80" > &ensp;&ensp;&ensp;<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/frameworks/flutter%402x.png" width="80" >
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/dev/tools/android_studio%403x.png" width="120" hight="50">
 
 <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
