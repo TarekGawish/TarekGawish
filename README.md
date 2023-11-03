@@ -11,7 +11,7 @@ https://simpleicons.org/
 > 
 
 <h2 align='center'><samp><strong>Hi there 👋, I am Tarek Gawish</strong></samp></h2>
-<p align='center'> Moblie developer | Flutter </p>
+<p align='center'> Moblie developer</p>
 
 <details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
