@@ -40,7 +40,7 @@ https://simpleicons.org/
 
 🧐 **Knowledge of:**<br>
 
-`Responsive web design`, `Clean Architecture`, `DOM`, `Styled Components`, `React Router`, `Enzyme`, `AXIOS`, `3rd Party API`, `Object-Oriented Programming`, `data structures and algorithms`.
+`Responsive web design`, `Clean Architecture`, `DOM`, `Styled Components`, `React Router`, `Enzyme`, `AXIOS`, `3rd Party API`, `OOP`, `data structures and algorithms`.
 
 
 
