@@ -19,7 +19,6 @@ https://simpleicons.org/
 📝 ***Feel free to contact me. I am always here ...***
 <br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Tarek%20Gawish-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/tarek-gawish-a5804a1b5/)
-[![Mail](https://img.shields.io/badge/Gmail-tarek29gawesh55@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](tarek29gawesh55@gmail.com)
 <br>
 <!-- ✅  **GitHub Extra Pins**
 
